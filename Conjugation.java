@@ -1,5 +1,5 @@
 
-public class Conjugation {
+public class Conjugation extends Driver {
     String[] infinitive = {"Vivir", "Beber", "Comer", "Hablar", "Correr", "Leer"};
     String[] presentYo = {"Vivo", "Bebo", "Como", "Hablo", "Corro", "Leo"};
     String[] presentTu = {"Vives", "Bebes", "Comes", "Hablas", "Corres", "Lees"};
