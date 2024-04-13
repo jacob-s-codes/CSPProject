@@ -25,7 +25,7 @@ public class APCSPProject {
                     System.out.println("Nice job!");
                     gotIt = true;
                 } else {
-                    System.out.println("Try again :( )");
+                    System.out.println("Try again :( ");
                 }
             } while (gotIt != true);
             
