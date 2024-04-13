@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class APCSPProject {
+    private static String test;
     private static String playAgain = "";
     private static String userInput = "";
     private static Scanner sc = new Scanner(System.in);
