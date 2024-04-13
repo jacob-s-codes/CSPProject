@@ -32,8 +32,6 @@ public class Conjugation extends Driver {
             chosenPronoun = 5;
             return infinitive[randomInfinitive] + ": Ellos";
         }
-
-        
     }
 
     public boolean check (String str) {
