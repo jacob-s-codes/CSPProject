@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class APCSPProject {
+public class Driver {
     private static String playAgain = "";
     private static String userInput = "";
     private static Scanner sc = new Scanner(System.in);
